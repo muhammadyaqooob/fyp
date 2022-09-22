@@ -1,0 +1,39 @@
+IBM XForce: Cyber threat Sharing platform. 
+Different vulnerabilities and data is stored there, we can search by IP, has etc. It will show the timeline, the threat score and the potential threat 
+in the particular data source.
+
+IBM X force adverseries: research team.
+IBM security intellogence blog: news etc.
+
+
+My collection: last publiched. 
+Shared with me: with you last publiched 2.
+
+
+
+MISP:
+
+Download:
+Can create the directory of malwares.
+And MISp supports the APi we setup a mist server and can make requests to that server for integrating it with others.
+
+
+
+
+
+First, artifacts of malware suitable for use in discovering malware interrelationships must be identified.
+ Second, malware analyses must be developed and employed to automatically extract these types of malware artifacts.
+ Third, for each type of malware artifact considered, scalable means of comparison must be developed for use in discovering
+ malware interrelationships.
+
+
+
+While hacker forum data can be valuable for advancing CTI, 
+these online platforms remain relatively unstudied as many such forums employ robust anti-crawling mechanisms.
+
+
+
+
+
+
+
